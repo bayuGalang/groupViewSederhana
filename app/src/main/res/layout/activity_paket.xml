@@ -27,7 +27,13 @@
             android:paddingTop="30dp"
             android:scaleType="fitXY"
             android:src="@drawable/paket1pic1" />
-        <Im
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="5dp"
+            android:paddingTop="10dp"
+            android:textSize="20dp"
+            android:text="Indahnya Sunset di Pantai Pulau Tropis"
     </LinearLayout>
 
 
