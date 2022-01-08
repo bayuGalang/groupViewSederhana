@@ -33,7 +33,37 @@
             android:paddingHorizontal="5dp"
             android:paddingTop="10dp"
             android:textSize="20dp"
-            android:text="Indahnya Sunset di Pantai Pulau Tropis"
+            android:text="Indahnya Sunset di Pantai Pulau Tropis"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:adjustViewBounds="true"
+            android:paddingTop="30dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/paket1pic2" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="5dp"
+            android:paddingTop="10dp"
+            android:textSize="20dp"
+            android:text="Nikmati Biruanya Laut dan putihnya pasir pantai di pulau tropis"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:adjustViewBounds="true"
+            android:paddingTop="30dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/paket1pic3" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="5dp"
+            android:paddingTop="10dp"
+            android:textSize="20dp"
+            android:text="Hijaunya Hutan Di Pulau Tropis yang masih terawat dengan baik"/>
+
+
     </LinearLayout>
 
 
